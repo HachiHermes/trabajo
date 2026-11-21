@@ -15,6 +15,6 @@ Agradezco de antemano su atención y tiempo.
 Saludos cordiales,
 
 Luis Miguel
-[Teléfono de contacto]
-[Correo electrónico]
-[Enlace LinkedIn]
+630386197
+luis.lpeces@gmail.com
+https://www.linkedin.com/in/luis-miguel-l%C3%B3pez-peces/
