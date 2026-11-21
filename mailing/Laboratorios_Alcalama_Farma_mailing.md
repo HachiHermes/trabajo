@@ -14,4 +14,4 @@ Agradezco de antemano su atención y tiempo.
 
 Saludos cordiales,
 
-Luis Miguel - (Telf) 630386197 - (Email) luis.lpeces@gmail.com - (LinkedIN) inkedin.com/in/luis-miguel-l%C3%B3pez-peces
+Luis Miguel - (Telf) 630386197 - (Email) luis.lpeces@gmail.com - (LinkedIN) www.linkedin.com/in/luis-miguel-l%C3%B3pez-peces
