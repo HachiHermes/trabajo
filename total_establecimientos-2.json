@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "source": "total_establecimientos-2.xls",
+    "extraction_date": "2026-11-21",
+    "total_companies": 100,
+    "description": "Directorio de empresas de Alcalá de Henares (fichero 2)"
+  },
+  "companies": [
+    {
+      "empresa": "Abengoa Inabensa S.A.",
+      "actividad": "CON: Construcción | Actividades de construcción especializada | Construcción",
+      "email": "abengoa@abengoa.com"
+    },
+    {
+      "empresa": "ABM-REXEL S.L.U.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "alcala@rexel.es"
+    },
+    {
+      "empresa": "AC car S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "accar@accar.es"
+    },
+    {
+      "empresa": "Grupo Cevik S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@grupo-k.es"
+    },
+    {
+      "empresa": "Accesorios ferko S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "ferko@grupo-k.es"
+    },
+    {
+      "empresa": "Adiss informática, S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Actividades profesionales, científicas y técnicas | Servicios",
+      "email": "info@adissinformatica.com"
+    },
+    {
+      "empresa": "Adt operador logístico",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "adt5@adt.es"
+    },
+    {
+      "empresa": "AETCM Asociación española de técnicos de cerveza y malta",
+      "actividad": "OTROS | Actividades asociativas | Otros",
+      "email": "secretaria@aetcm.es"
+    },
+    {
+      "empresa": "PERGAPIEL AGP S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Artes gráficas | Industria",
+      "email": "pergapiel@pergapiel.com"
+    },
+    {
+      "empresa": "AGROGIL S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "agrogil@agrogil.es"
+    },
+    {
+      "empresa": "Análisis de ingeniería y respuesta continua S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "info@aircontinua.es"
+    },
+    {
+      "empresa": "ALCALÁ INDUSTRIAL S.A.",
+      "actividad": "IPI: Procesos sobre piezas | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "info1@aisa.com"
+    },
+    {
+      "empresa": "ALCALÁ TRUCK TRANSPORT S.L.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "comercial@tlt.es"
+    },
+    {
+      "empresa": "Alcalá Bus S.L.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "alcabus@autobusesdealcala.com"
+    },
+    {
+      "empresa": "ALCARRIA PLUVIALES CANALONES S.L.U.",
+      "actividad": "CON: Construcción | Construcción | Construcción",
+      "email": "davidalcarria@hotmail.com"
+    },
+    {
+      "empresa": "ALKIHERRAMIENTA S.A",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "central@alkiherramienta.com"
+    },
+    {
+      "empresa": "Allupa S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "info@allupa.es"
+    },
+    {
+      "empresa": "ALUMINIOS SEPPALA S.A",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "administración@aluminioseppala.com"
+    },
+    {
+      "empresa": "Ambar plus S.L.",
+      "actividad": "SMA: Energía y Medioambiente | Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación | Servicios",
+      "email": "correo@ambarplus.com"
+    },
+    {
+      "empresa": "AMBULANCIAS MARTÍN S.L.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "ambulanciasmartin@telefonica.net"
+    },
+    {
+      "empresa": "AMEYD S. COOP. S.C.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Industria de la madera y el corcho, excepto muebles, cestería y espartería | Industria",
+      "email": "ameydcarmen@hotmail.com"
+    },
+    {
+      "empresa": "ANDAMIOS TÉCNICOS HENARES S.L.",
+      "actividad": "SC: Servicios al consumidor final | Actividades de alquiler | Servicios",
+      "email": "info@andamiosath.com"
+    },
+    {
+      "empresa": "Andarivel proyectos y gestión S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Información y comunicaciones | Servicios",
+      "email": "ventas@andarivel.es"
+    },
+    {
+      "empresa": "Ángel Carmena S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Reparación e instalación de maquinaria y equipo | Servicios",
+      "email": "repuestos@angelcarmena.com"
+    },
+    {
+      "empresa": "Asociación Elástica",
+      "actividad": "EASO: Educación, Asistencia Social, Sanidad y Ocio | Actividades artísticas, recreativas y de entretenimiento | Educación, Asistencia Social, Sanidad y Ocio",
+      "email": "animacionelastica@hotmail.com"
+    },
+    {
+      "empresa": "ANOVA IT CONSULTING S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Actividades profesionales, científicas y técnicas | Servicios",
+      "email": "info@anovagroup.es"
+    },
+    {
+      "empresa": "ANTARIA Services S.L.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "administracion@antaria.es"
+    },
+    {
+      "empresa": "Almimar S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "a.rayo@otixe.com"
+    },
+    {
+      "empresa": "Aplicaciones en polvo appol C.B.",
+      "actividad": "IPI: Procesos sobre piezas | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "appolcb2@hotmail.com"
+    },
+    {
+      "empresa": "Aprimatic doors S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@aprimatic.es"
+    },
+    {
+      "empresa": "Aquatecnia Ingeniería ambiental S.L.",
+      "actividad": "SMA: Energía y Medioambiente | Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación | Servicios",
+      "email": "info@aquatecnia.com"
+    },
+    {
+      "empresa": "Arango  Henares S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Actividades administrativas y servicios auxiliares | Servicios",
+      "email": "info@arangohenares.com"
+    },
+    {
+      "empresa": "Aresmare team S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@aresmare.es"
+    },
+    {
+      "empresa": "ARHUS Capital S.L.",
+      "actividad": "SC: Servicios al consumidor final | Actividades inmobiliarias | Servicios",
+      "email": "sila@brime.net"
+    },
+    {
+      "empresa": "ART D´CAR S.L.",
+      "actividad": "SC: Servicios al consumidor final | Venta y reparación de vehículos de motor y motocicletas | Servicios",
+      "email": "info@artdecar.es"
+    },
+    {
+      "empresa": "INCEFOR",
+      "actividad": "EASO: Educación, Asistencia Social, Sanidad y Ocio | Educación | Educación, Asistencia Social, Sanidad y Ocio",
+      "email": ""
+    },
+    {
+      "empresa": "ARTES GRÁFICAS SUÁREZ, S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Artes gráficas | Industria",
+      "email": "administracion@graficassuarez.com"
+    },
+    {
+      "empresa": "Arvato services Spain S.A.U.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "infoarvato@arvato.com"
+    },
+    {
+      "empresa": "ARYSE COMUNICACIONES S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Actividades profesionales, científicas y técnicas | Servicios",
+      "email": "aryse@aryse.net"
+    },
+    {
+      "empresa": "Ascensores D. Carrillo S.L.",
+      "actividad": "SE: Servicios a empresas: Mantenimiento, reparación, informática, consultoría | Reparación e instalación de maquinaria y equipo | Servicios",
+      "email": "dc@ascensoresdc.es"
+    },
+    {
+      "empresa": "ASCOLOR",
+      "actividad": "IPF: Productos con destino al mercado final | Artes gráficas | Industria",
+      "email": "imagendigital@ascolor.com"
+    },
+    {
+      "empresa": "Asecoin. Asesoramiento contra incendios",
+      "actividad": "CON: Construcción | Actividades de construcción especializada | Construcción",
+      "email": "asecoin@asecoin.com"
+    },
+    {
+      "empresa": "ASIA ALMACÉN DE SUMINISTROS INDUSTRIALES Y AUTOMOCIÓN S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "comercio@asiasl.es"
+    },
+    {
+      "empresa": "AURGI",
+      "actividad": "SC: Servicios al consumidor final | Venta y reparación de vehículos de motor y motocicletas | Servicios",
+      "email": "atencion.cliente@aurgi.com"
+    },
+    {
+      "empresa": "AUTINGO S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@autingo.com"
+    },
+    {
+      "empresa": "Auto Elia S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "autoelia@autoelia.es"
+    },
+    {
+      "empresa": "Auto rallye Alcalá S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "victor.uceda@autorallye.es"
+    },
+    {
+      "empresa": "Autocarpe concesionario S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "autocarpe@autocarpe.es"
+    },
+    {
+      "empresa": "Autocentro cormenar S.L.",
+      "actividad": "SC: Servicios al consumidor final | Venta y reparación de vehículos de motor y motocicletas | Servicios",
+      "email": "info@autocentrocormenar.com"
+    },
+    {
+      "empresa": "AUTOESCUELA 2000 S.A.",
+      "actividad": "EASO: Educación, Asistencia Social, Sanidad y Ocio | Educación | Educación, Asistencia Social, Sanidad y Ocio",
+      "email": "autoescuela2000-2@hotmail.com"
+    },
+    {
+      "empresa": "AUTOESTÁTICO S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Artes gráficas | Industria",
+      "email": "autoestatico@autoestatico.com"
+    },
+    {
+      "empresa": "AUTOMATIC DOOR",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "ad.automaticdoor@gmail.com"
+    },
+    {
+      "empresa": "AUTOMOCIÓN ALCALÁ S.L. CITROEN YDS",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@automocionalcala.redcitroen.com"
+    },
+    {
+      "empresa": "Mini Autopremier",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "rclientes@autopremier.net.bmw.es"
+    },
+    {
+      "empresa": "AUTOSTRADA",
+      "actividad": "SC: Servicios al consumidor final | Actividades de alquiler | Servicios",
+      "email": "autostrada@autostrada.es"
+    },
+    {
+      "empresa": "Punto Ahorro",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "jesushmvc@hotmail.com"
+    },
+    {
+      "empresa": "AZ ESPAÑA S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@azesp.com"
+    },
+    {
+      "empresa": "AZULEJOS UTRILLA S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "azulejosutrilla@azulejosutrilla.es"
+    },
+    {
+      "empresa": "BAOTIAN España S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@baotian.es"
+    },
+    {
+      "empresa": "BARAHONA Imagen",
+      "actividad": "IPF: Productos con destino al mercado final | Artes gráficas | Industria",
+      "email": "rotulacion@barahonaimagen.com"
+    },
+    {
+      "empresa": "BEBINTER S.A",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "madrid@ambar.com"
+    },
+    {
+      "empresa": "Bedline industrial Ibérica S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de muebles | Industria",
+      "email": "mail@bedline.es"
+    },
+    {
+      "empresa": "Stock logistic transport Madrid",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "dbergareche@stocklogistic.com"
+    },
+    {
+      "empresa": "BERLIMED S.A.",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de productos farmacéuticos | Industria",
+      "email": "mariajesus.gil@bayer.com"
+    },
+    {
+      "empresa": "BERRY Ibérica S.A.U.",
+      "actividad": "CON: Construcción | Construcción | Construcción",
+      "email": "daniel.terol@bintg.com"
+    },
+    {
+      "empresa": "Calle Argentina, 2, nave A-14",
+      "actividad": "Local o solar vacío | Local vacío | Locales vacíos",
+      "email": ""
+    },
+    {
+      "empresa": "BOFROST SAU",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "clientes@bofrost.es"
+    },
+    {
+      "empresa": "Bombas CAPRARI S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@bombascaprari.es"
+    },
+    {
+      "empresa": "Borgers S.A.U.",
+      "actividad": "IAUX: Pieza o producto que se incorpora a un conjunto (Ind. Auxiliar) | Industria textil | Industria",
+      "email": "info-spain@borgers-group.com"
+    },
+    {
+      "empresa": "Boulder zone Alcalá",
+      "actividad": "EASO: Educación, Asistencia Social, Sanidad y Ocio | Actividades artísticas, recreativas y de entretenimiento | Educación, Asistencia Social, Sanidad y Ocio",
+      "email": "boulderzonealcala@gmail.com"
+    },
+    {
+      "empresa": "Boyre S.L",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "comercial@boyresl.es"
+    },
+    {
+      "empresa": "BPW Trapaco S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@bpwtrapaco.com"
+    },
+    {
+      "empresa": "Bricar boxes S.L.",
+      "actividad": "SC: Servicios al consumidor final | Venta y reparación de vehículos de motor y motocicletas | Servicios",
+      "email": "bricarboxes_alcala@hotmail.com"
+    },
+    {
+      "empresa": "BRICO GROUP INTEGRAL EUROPA S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "bricogroup@bricogroup.com"
+    },
+    {
+      "empresa": "BTSA Biotecnologías aplicadas S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Industria química | Industria",
+      "email": "info@btsa-es.com"
+    },
+    {
+      "empresa": "Buffalo grill",
+      "actividad": "SC: Servicios al consumidor final | Hostelería | Servicios",
+      "email": "administracion@buffalo-grill.es"
+    },
+    {
+      "empresa": "Burokipy S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@burokopy.es"
+    },
+    {
+      "empresa": "C.E.B.S. Construction efficient building and services S.L.",
+      "actividad": "CON: Construcción | Construcción | Construcción",
+      "email": "info@cebsbuilding.com"
+    },
+    {
+      "empresa": "C.M. Advanced printed Iberia",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "administracion@cm-sa.com"
+    },
+    {
+      "empresa": "C.M.O. VALVESTECNOLOGY S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "cmomadrid@cmovalves.es"
+    },
+    {
+      "empresa": "Rufocars",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": ""
+    },
+    {
+      "empresa": "CAD 3 rehabilitación",
+      "actividad": "CON: Construcción | Construcción | Construcción",
+      "email": "info@cad3servicios.com"
+    },
+    {
+      "empresa": "Excavaciones Lorenzo Benito",
+      "actividad": "CON: Construcción | Construcción | Construcción",
+      "email": "benito@excavacionesbenito.es"
+    },
+    {
+      "empresa": "Exclusivas centemar S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "centemar@centemar.es"
+    },
+    {
+      "empresa": "EXCLUSIVAS CLUB INTERNACIONAL DEL LIBRO S.A.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "exclusivasweb@cil.com"
+    },
+    {
+      "empresa": "EZSA SANIDAD AMBIENTAL S.L.",
+      "actividad": "SMA: Energía y Medioambiente | Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación | Servicios",
+      "email": "ezsa@ezsa.es"
+    },
+    {
+      "empresa": "F. TOMÉ S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "info@ftome.com"
+    },
+    {
+      "empresa": "F.M. INDAUXI S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de material y equipo eléctrico | Industria",
+      "email": "rmtoral@fmindauxi.es"
+    },
+    {
+      "empresa": "FABBROS GLOBAL PACKAGING S.L.",
+      "actividad": "IPF: Productos con destino al mercado final | Industria del papel | Industria",
+      "email": "gema@fabbros.com"
+    },
+    {
+      "empresa": "FAVRAM SOCIEDAD LIMITADA",
+      "actividad": "IPI: Procesos sobre piezas | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "comercial@favram.com"
+    },
+    {
+      "empresa": "Logiters logística S.A.",
+      "actividad": "DL: Distribución y logística | Transporte y almacenamiento | Distribución y logística",
+      "email": "logiters@logiters.com"
+    },
+    {
+      "empresa": "Femasa",
+      "actividad": "IPF: Productos con destino al mercado final | Industria del papel | Industria",
+      "email": "info@femasa.es"
+    },
+    {
+      "empresa": "Fencodisa S.L.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "comercial@fencodisa.es"
+    },
+    {
+      "empresa": "FERCOA S.A.",
+      "actividad": "IPI: Procesos sobre piezas | Fabricación de productos metálicos excepto maquinaria y equipo | Industria",
+      "email": "fercoa@fercoa.es"
+    },
+    {
+      "empresa": "Ferga motor S.L.",
+      "actividad": "SC: Servicios al consumidor final | Venta y reparación de vehículos de motor y motocicletas | Servicios",
+      "email": "info@fergamotor.com"
+    },
+    {
+      "empresa": "FIAT CHRYSLER AUTOMOBILES SPAIN S.A.",
+      "actividad": "CV: Comercialización: Ventas | Comercio al por mayor y al por menor, reparación de vehículos de motor | Comercialización: ventas",
+      "email": "customercare.spain@fcagroup.com"
+    },
+    {
+      "empresa": "FIBERPOL COMPOSITES",
+      "actividad": "IPF: Productos con destino al mercado final | Fabricación de productos de caucho y plástico | Industria",
+      "email": "info@fiberpol.es"
+    },
+    {
+      "empresa": "FIESTA S.A.",
+      "actividad": "IPF: Productos con destino al mercado final | Industria de la alimentación | Industria",
+      "email": "info@fiesta.es"
+    },
+    {
+      "empresa": "Cafetería Reencuentro",
+      "actividad": "SC: Servicios al consumidor final | Hostelería | Servicios",
+      "email": ""
+    },
+    {
+      "empresa": "Cafetería Cormenar",
+      "actividad": "SC: Servicios al consumidor final | Hostelería | Servicios",
+      "email": "anamaria19070@hotmail.com"
+    }
+  ]
+}
