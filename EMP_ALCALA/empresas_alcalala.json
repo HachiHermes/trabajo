@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "source": "total_establecimientos.xls",
+    "source": "total_establecimientos-2.xls",
     "extraction_date": "2026-11-21",
     "total_companies": 100,
-    "description": "Directorio de empresas de Alcalá de Henares"
+    "description": "Directorio de empresas de Alcalá de Henares (fichero 2)"
   },
   "companies": [
     {
