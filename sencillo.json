@@ -1,0 +1,72 @@
+{
+  "name": "Instagram Webhook - Respuesta Inmediata",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "instagram-webhook",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [250, 300],
+      "id": "1",
+      "name": "Webhook Instagram",
+      "webhookId": "instagram-webhook"
+    },
+    {
+      "parameters": {
+        "responseCode": 200,
+        "responseData": "{{ JSON.stringify({status: 'ok', message: 'Webhook recibido'}) }}",
+        "responseHeaders": {
+          "Content-Type": "application/json"
+        },
+        "responseMode": "onReceived"
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [500, 200],
+      "id": "2",
+      "name": "Responder 200 Inmediato"
+    },
+    {
+      "parameters": {
+        "functionCode": "console.log('Procesando webhook:', JSON.stringify($json, null, 2));\nreturn [{json: {procesado: true, timestamp: new Date().toISOString()}}];"
+      },
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [500, 450],
+      "id": "3",
+      "name": "Procesar en Background"
+    }
+  ],
+  "connections": {
+    "Webhook Instagram": {
+      "main": [
+        [
+          {
+            "node": "Responder 200 Inmediato",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Procesar en Background",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Responder 200 Inmediato": {
+      "main": [[]]
+    },
+    "Procesar en Background": {
+      "main": [[]]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
