@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {
+      "parameters": {},
+      "name": "Inicio",
+      "type": "n8n-nodes.base.start",
+      "typeVersion": 1
+    }
+  ],
+  "connections": {}
+}
