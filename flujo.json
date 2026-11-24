@@ -1,1 +1,3 @@
-{"nodes": [], "connections": {}}
+{"nodes": ["cron", "function", "httpRequest"],
+ "connections": {"cron": ["function"], "httpRequest": ["function"]}
+}
