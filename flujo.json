@@ -2,6 +2,7 @@
   "name": "Renovación Automática Token Instagram",
   "nodes": [
     {
+      "id": "1",
       "parameters": {
         "cronExpression": "0 0 * * *"
       },
@@ -11,6 +12,7 @@
       "position": [250, 300]
     },
     {
+      "id": "2",
       "parameters": {
         "functionCode": "// Lógica de verificación\nif (new Date().getTime() > new Date(expiresAt).getTime()) {\n  // Token expirado, renovar\n  return [{json: {status: 'expirado'}}];\n} else {\n  // Token aún válido\n  return [{json: {status: 'activo'}}];\n}"
       },
@@ -20,6 +22,7 @@
       "position": [450, 300]
     },
     {
+      "id": "3",
       "parameters": {
         "url": "https://graph.facebook.com/v18.0/oauth/access_token",
         "method": "GET",
