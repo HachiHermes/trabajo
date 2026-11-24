@@ -1,3 +1,77 @@
-{"nodes": ["cron", "function", "httpRequest"],
- "connections": {"cron": ["function"], "httpRequest": ["function"]}
+{
+  "name": "Renovación Automática Token Instagram",
+  "nodes": [
+    {
+      "parameters": {
+        "cronExpression": "0 0 * * *"
+      },
+      "name": "Renovar Token Cada Día",
+      "type": "n8n-nodes-base.cron",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Lógica de verificación\nif (new Date().getTime() > new Date(expiresAt).getTime()) {\n  // Token expirado, renovar\n  return [{json: {status: 'expirado'}}];\n} else {\n  // Token aún válido\n  return [{json: {status: 'activo'}}];\n}"
+      },
+      "name": "Verificar Token",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://graph.facebook.com/v18.0/oauth/access_token",
+        "method": "GET",
+        "queryParameters": [
+          {
+            "name": "grant_type",
+            "value": "fb_exchange_token"
+          },
+          {
+            "name": "client_id",
+            "value": "YOUR_CLIENT_ID"
+          },
+          {
+            "name": "client_secret",
+            "value": "YOUR_CLIENT_SECRET"
+          },
+          {
+            "name": "fb_exchange_token",
+            "value": "={{ $json[\"access_token\"] }}"
+          }
+        ]
+      },
+      "name": "Renovar Token Facebook",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 2,
+      "position": [650, 300]
+    }
+  ],
+  "connections": {
+    "Renovar Token Cada Día": {
+      "main": [
+        [
+          {
+            "node": "Verificar Token",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Verificar Token": {
+      "main": [
+        [
+          {
+            "node": "Renovar Token Facebook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {}
 }
